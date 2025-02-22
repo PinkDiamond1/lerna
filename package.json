@@ -31,7 +31,7 @@
   "homepage": "https://lerna.js.org/",
   "dependencies": {
     "@octokit/plugin-enterprise-rest": "^6.0.1",
-    "@octokit/rest": "^18.1.0",
+    "@octokit/rest": "^21.1.1",
     "byte-size": "^7.0.0",
     "chalk": "^4.1.0",
     "clone-deep": "^4.0.1",
@@ -39,7 +39,7 @@
     "columnify": "^1.5.4",
     "config-chain": "^1.1.12",
     "conventional-changelog-angular": "^5.0.12",
-    "conventional-changelog-core": "^4.2.2",
+    "conventional-changelog-core": "^9.0.0",
     "conventional-recommended-bump": "^6.1.0",
     "cosmiconfig": "^7.0.0",
     "dedent": "^0.7.0",
